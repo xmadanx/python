@@ -3,14 +3,14 @@
 #Different data types
 
 a = ["i", "love", "you","python"]
-print(a)
+print(a)                           # ['i', 'love', 'you', 'python']
 
-print(a[0])
-print(a[1])
-print(a[-1])
+print(a[0])                        # i
+print(a[1])                        # love
+print(a[-1])                       # python
 
 #indexing
-print(a[1:-1])
+print(a[1:-1])                     
 
 #replace elements
 a[0] = "we"
