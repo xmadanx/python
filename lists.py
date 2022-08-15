@@ -13,7 +13,7 @@ print(a[-1])                       # python
 print(a[1:-1])                     # ['love', 'you']
 
 #replace elements
-a[0] = "we"                        # 
+a[0] = "we"                        
 
 #insert elements
 a.insert(1,"all")
