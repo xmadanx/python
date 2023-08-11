@@ -1,5 +1,6 @@
 def name():
-	print("Madan")                      
+	print("Madan")
+
 
 def age():
 	return(21)
